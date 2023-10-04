@@ -28,7 +28,7 @@
 
 ### Social:
 [![Linkedin](https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/carlafebrito/)&nbsp;
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/carladfb)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/carladfb)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
