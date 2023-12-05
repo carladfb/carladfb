@@ -22,11 +22,13 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=mariadb&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&labelColor=0D1117)&nbsp;
 
 ### Social:
 [![Linkedin](https://img.shields.io/badge/-linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/carlafebrito/)&nbsp;
