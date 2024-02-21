@@ -1,10 +1,10 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=FF7F50)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=4682B4)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA8072&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carla+Brito;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carla+Brito;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carladfb&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=FA8072&text_color=c9d1d9&bg_color=0d1117" alt="Carla's Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carladfb&layout=compact&hide_border=true&title_color=FA8072&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carladfb&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Carla's Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carladfb&layout=compact&hide_border=true&title_color=4682B4&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carladfb&bg_color=1c1c1c&color=ff7f50&line=ff7f50&point=ffa07a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
