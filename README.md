@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carla+Brito;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h2 aling="left">About Me</h2>
-<p>👩‍💻 - iOS App Developer and Web Developer</p>
+<p>👩‍💻 - iOS App Developer and Front-end Developer</p>
 <p>📲 - iOS App Developer at Apple Developer Academy Senac</p>
 <p>👩‍🎓 - Student of Systems Analysis and Development </p>
 
