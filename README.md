@@ -31,10 +31,3 @@
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Carla" />
 </a>
 
-<br>
-<br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carladfb}/count.svg" /></p> 
-<br></div>
-
