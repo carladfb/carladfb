@@ -2,32 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0D6D2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carla;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
-<h2 aling="left">About Me</h2>
-<p>👩‍💻 - iOS App Developer and Front-end Developer</p>
-<p>📲 - iOS App Developer at Apple Developer Academy | Senac</p>
-<p>👩‍🎓 - Student of Systems Analysis and Development </p>
+<h2 align="left">About Me</h2>
+<p>👩‍💻 - Back-end Developer and iOS Developer</p>
+<p>💼 - Back-end Developer at Innocean Brasil</p>
+<p>👩‍🎓 - Graduated in Systems Analysis and Development</p>
 
 <h2 align="left">Main skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,java,spring,html,css,js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,swift,mysql,html,css,js,)](https://skillicons.dev)
 
 <h2 align="left">Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,figma,ai,ps,wordpress,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,bitbucket,docker,figma,ai,ps,apple,windows)](https://skillicons.dev)
 
 <h2 align="left">Currently studying</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,react,js,java)](https://skillicons.dev)
-
-<h2 align="left">Stats</h2>
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carladfb&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="carladfb" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carladfb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="carladfb" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,swift,js,react)](https://skillicons.dev)
 
 <h2 align="left">Social</h2>
 <a href="https://linkedin.com/in/carlafebrito" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Carla" />
 </a>
-
