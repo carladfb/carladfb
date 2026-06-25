@@ -9,17 +9,17 @@
 
 <h2 align="left">Main skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,swift,mysql,html,css,js,)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,swift&theme=dark)](https://skillicons.dev)
 
 <h2 align="left">Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,bitbucket,docker,figma,ai,ps,apple,windows)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=idea,vscode,mysql,git,github,bitbucket,postman,docker,gradle,figma,apple,windows&theme=dark)](https://skillicons.dev)
 
 <h2 align="left">Currently studying</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,swift,js,react)](https://skillicons.dev)
+[![Currently Studying](https://skillicons.dev/icons?i=java,spring,mysql,postgres,react&theme=dark)](https://skillicons.dev)
 
 <h2 align="left">Social</h2>
 <a href="https://linkedin.com/in/carlafebrito" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Carla" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn Carla" />
 </a>
