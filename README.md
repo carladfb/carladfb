@@ -23,9 +23,3 @@
 <a href="https://linkedin.com/in/carlafebrito" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn Carla" />
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carladfb/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carladfb/carladfb/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/carladfb/carladfb/output/snake.svg">
-</picture>
